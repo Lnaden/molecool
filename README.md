@@ -14,6 +14,13 @@ To install, run this command:
 pip install -e .
 ```
 
+## Collab Instructions
+To submit your feature to be incorporated into the main branch, 
+Submit a `Pull Request`. 
+The repository maintainers will review your pull request before accepting your changes.
+I am Levi Naden: MolSSI SW Scientist
+
+
 ### Copyright
 
 Copyright (c) 2024, Levi Naden
